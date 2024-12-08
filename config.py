@@ -6,7 +6,7 @@ Created on Sun Nov 24 20:14:19 2024
 """
 
 # Absolute base directory
-BASE_DIR = r"C:/COS 570/multilabelClassificcationWithMissingVals/multi-label-classification"
+BASE_DIR = r"/kaggle/input/multi-label-classification-competition-2024/COMP5329S1A2Dataset"
 
 # Absolute paths for each variable
 TRAIN_EXCEL_PATH = f"{BASE_DIR}/train.csv"

@@ -5,7 +5,7 @@ Created on Sun Nov 24 19:53:05 2024
 @author: prash
 """
 import os 
-os.chdir(r"C:/COS 570/multilabelClassificcationWithMissingVals")
+os.chdir(r"/kaggle/working/multilabelClassificcationWithMissingVals")
 
 import numpy as np 
 import matplotlib.pyplot as plt
