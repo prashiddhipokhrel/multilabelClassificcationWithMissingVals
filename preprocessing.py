@@ -93,7 +93,7 @@ def create_tf_dataset(images, labels, captions, batch_size=32):
     return dataset
 
 # Usage
-os.chdir(r"C:/COS 570/multilabelClassificcationWithMissingVals")
+os.chdir(r"/kaggle/working/multilabelClassificcationWithMissingVals")
 
 # Load data
 train_images, train_labels, train_captions = load_data(TRAIN_EXCEL_PATH, IMAGE_FOLDER)
